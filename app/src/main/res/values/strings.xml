@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">ভর্তি বিজ্ঞপ্তি</string>
+    <string name="title_home">হোম</string>
+    <string name="title_school">স্কুল</string>
+    <string name="title_dashboard">কলেজ</string>
+    <string name="title_notifications">বিশ্ববিদ্যালয়</string>
+
+
+    <string-array name="abbrevation_list_header">
+        <item>ঢাকা বিশ্ববিদ্যালয়</item>
+        <item>ইসলামী বিশ্ববিদ্যালয়</item>
+        <item>কুমিল্লা বিশ্ববিদ্যালয়</item>
+        <item>খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>খুলনা বিশ্ববিদ্যালয়</item>
+        <item>চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>চট্টগ্রাম বিশ্ববিদ্যালয়</item>
+        <item>জগন্নাথ বিশ্ববিদ্যালয়</item>
+        <item>জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়[</item>
+        <item>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</item>
+        <item>ঢাকা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃষি বিশ্ববিদ্যালয়</item>
+        <item>বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>বরিশাল বিশ্ববিদ্যালয়</item>
+        <item>বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালস</item>
+
+        <item>বাংলাদেশ কৃষি বিশ্ববিদ্যালয়</item>
+        <item>বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয়</item>
+        <item>বেগম রোকেয়া বিশ্ববিদ্যালয়</item>
+        <item>বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয়</item>
+        <item>মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+
+        <item>রাজশাহী বিশ্ববিদ্যালয়</item>
+        <item>রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়[</item>
+        <item>রাঙ্গামাটি বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+        <item>শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+
+        <item>শেরে বাংলা কৃষি বিশ্ববিদ্যালয়[</item>
+        <item>সিলেট কৃষি বিশ্ববিদ্যালয়</item>
+        <item>হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</item>
+    </string-array>
+
+    <string-array name="abbreviations_list_child">
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+        <item>AUnit</item>
+
+    </string-array>
+</resources>
